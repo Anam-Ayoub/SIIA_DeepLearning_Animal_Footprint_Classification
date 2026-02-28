@@ -1,0 +1,4 @@
+data/images_compressed.npz → Raw data used for training and testing (1 MB)
+data/names.npy → Names of the images (300 KB)
+data/Tone_logo_small.png → The app's logo (42 KB)
+data/tracks.xlsx → Overview of the used tracks (88 KB)
